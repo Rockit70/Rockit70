@@ -52,8 +52,6 @@ Rockit#5530
   <img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" alt="riot"/>
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="steam"/>
   
-  https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white
-
 
 
   

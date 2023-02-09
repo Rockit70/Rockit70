@@ -1,3 +1,10 @@
+# Rockit
+* sucks at coding
+* jew
+
+
+
+
 ## Languages
 <div id="badges">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="c#"/>

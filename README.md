@@ -43,8 +43,17 @@
 Rockit#5530
 
 
-## Other
+## Other Stuff
   <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" alt="premp"/>
+  <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" alt="duo"/>
+  
+## Gaming 😎😎😎
+  <img src="https://img.shields.io/badge/Epic%20Games-313131?style=for-the-badge&logo=Epic%20Games&logoColor=white" alt="epic"/>
+  <img src="https://img.shields.io/badge/Riot_Games-D32936?style=for-the-badge&logo=riot-games&logoColor=white" alt="riot"/>
+  <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="steam"/>
+  
+  https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white
+
 
 
   

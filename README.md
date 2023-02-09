@@ -1,6 +1,8 @@
-# Rockit
+## Rockit
+* 14
 * sucks at coding
-* jew
+* learning
+* malware enthusiast 
 
 
 

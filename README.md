@@ -1,11 +1,8 @@
 ## Rockit
-* 14
-* sucks at coding
-* learning
-* malware enthusiast 
-* i can do hello world in the languages listed below
-* california
-* professional java hater
+* Learning frontend
+* I hope to learn backend someday
+* Need ideas for websites and what to do
+* add me on discord: rockit.exe
 
 
 
